@@ -32,8 +32,9 @@ layers = 1
 
 [[keymap.layer]] # layer 0
 keys = """
-A       B           C
-Kc1     Kc2         Kc3
-LCtrl   MO(1)       LShift
-OSL(1)  LT(2, Kc9)  LM(1, LShift | LGui)
+Escape  Kc1  Kc2  Kc3  Kc4  Kc5  Kc6  Kc7  Kc8  Kc9  Kc0  Minus  Equal  Backspace
+Tab  Q  W  E  R  T  Y  U  I  O  P  LeftBracket  RightBracket  Backslash
+CapsLock  A  S  D  F  G  H  J  K  L  Semicolon  Quote  Enter
+LShift  Z  X  C  V  B  N  M  Comma  Dot  RShift  Up  Slash
+LCtrl  LGui  LAlt     Space    RAlt  RCtrl  Grave  Left  Down  Right
 """
